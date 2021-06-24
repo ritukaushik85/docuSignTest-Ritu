@@ -5,7 +5,7 @@ Below is the navigation flow of the project:
 1) Start at the DocuSign support home page: https://support.docusign.com/
 2) Search for: Rooms for Real Estate
 3) On the results page, perform a verification on the number of “Results found” displayed near the
-4) top of the page. Verify there are ‘55’ results found.
+   top of the page. Verify there are ‘55’ results found.
 5) Find and click on the link for ‘Download and Print Documents - DocuSign Rooms’
 6) On the resulting page,verify the [thumbs up] button from the ‘Was this content helpful?’
 section exists.
