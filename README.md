@@ -24,7 +24,7 @@ git clone https://github.com/ritukaushik85/rituk-docusignrooms.git
 
 ## Content - Description and Sub modules organization/flow 
 
-The navigation/Testing through Docusign Rooms website was done using creating Page Object model architecture in Java (Selenium Webdriver). Below are the classes created:
+The navigation/Testing through Docusign Rooms website was done using creating **Page Object model(POM)** architecture in Java (Selenium Webdriver)with the use of **TestNg framework**. Below are the classes created:
 * Testng.xml - This is the node for running the Test suite. On executing this, it will run all other classes as test and will generate the report.
 
 * DocisignAssignment class- This class is driving class of the project . It contains the @Test notation from TestNg which will drive execution of all methods of the page object classes.
