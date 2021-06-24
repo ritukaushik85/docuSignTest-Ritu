@@ -14,7 +14,7 @@ public class DownloadAndPrintDocPage extends BasePageObject {
     /** verifying the ThumbsUp button is present on the ‘Was this content helpful?’ section   */
     public void verifyThumbsUpButton() {
         System.out.println("Verifying ThumbsUp button present or not");
-        waitForVisibilityOf(ThumbsUpButton,2000);
+        waitForVisibilityOf(ThumbsUpButton,5);
         boolean ThumbsUpButtonVisible = find(ThumbsUpButton).isDisplayed();
         if (ThumbsUpButtonVisible) {
             System.out.println("Thumbs up button is present and visible");

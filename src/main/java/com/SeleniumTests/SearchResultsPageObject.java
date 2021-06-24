@@ -19,7 +19,7 @@ public class SearchResultsPageObject extends BasePageObject {
     /** Verifying the number of results found on the search page for 'Rooms for Real Estate' */
     public void verifyNoOfResults() {
         System.out.println("Landed on the SearchResults page");
-        waitForVisibilityOf(waiting, 2000);
+        waitForVisibilityOf(waiting, 5);
 
         String ActualNoOfResultsText = find(ResultsLabel).getText();
 
