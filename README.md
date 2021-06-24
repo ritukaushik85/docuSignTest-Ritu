@@ -41,8 +41,9 @@ The navigation/Testing through Docusign Rooms website was done using creating **
 1) Run the Testng.xml file , the test suite will execute and will generate the report.
 
 ## Report generation/Output
-*Below* is the output of a *successful* run in the html report:  
-file:///Users/Kaushik/TestAutomation/test-output/emailable-report.html
+*Below* is the output of 2 *successful* runs in the html report:  
+file:///Users/Kaushik/TestAutomation/test-output/DocuSignRoomsSuite/VerifyRooms.html
+file:///Users/Kaushik/TestAutomation/test-output/DocuSignRoomsSuite/DocuSignVerifyRooms.html
 
 ![Screen Shot 2021-06-21 at 12 09 39 AM](https://user-images.githubusercontent.com/86083485/122711047-23bbcd80-d227-11eb-939e-e1bfd99072d3.png)  
 
