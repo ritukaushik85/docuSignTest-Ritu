@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [DocuSignRoomsSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="DocuSignVerifyRooms(failed)">
+    <parameter name="driver" value="driver"/>
+    <classes>
+      <class name="com.SeleniumTests.DocuSignRoomsAssignment">
+        <methods>
+          <include name="verifyRoomsForRealEstate"/>
+        </methods>
+      </class> <!-- com.SeleniumTests.DocuSignRoomsAssignment -->
+    </classes>
+  </test> <!-- DocuSignVerifyRooms(failed) -->
+</suite> <!-- Failed suite [DocuSignRoomsSuite] -->
