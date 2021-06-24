@@ -19,7 +19,7 @@ section exists.
 
 ### Get the source code :
 Clone the repository : 
-git clone https://github.com/ritukaushik85/rituk-docusignrooms.git
+git clone https://github.com/ritukaushik85/docuSignTest-Ritu.git
 * The project lies in the TestAtomation folder.
 
 ## Content - Description and Sub modules organization/flow 
